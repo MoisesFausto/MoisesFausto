@@ -13,6 +13,11 @@ Full stack developer. Lover of Technology and innovation. Student of the best pr
 - 🌱 Adopting the best programming practices and with an eye on the Flutter. 
 - 🤝 I am always looking to learn and help people.
 
+### Gitlab
+Por favor, já faz algum tempo que não atualizo o Github por motivos de estar dando preferencia ao Gitlab, eu indico que dê uma olhada no perfil lá no Gitlab... 
+
+[<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">](https://gitlab.com/moisesfausto)
+
 
 ## Redes socias e contato - Social Media & Contacts
 
